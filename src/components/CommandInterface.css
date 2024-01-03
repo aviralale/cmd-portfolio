@@ -1,0 +1,8 @@
+.command-ip{
+    outline: none;
+    padding-left: 1rem;
+    width: 100%;
+}
+.command-ip:focus{
+    outline: none;
+}
